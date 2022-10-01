@@ -12,12 +12,7 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
 
 - Buka link ini https://hacktoberfest.com/
 - klik Tombol Start Hacking
-  <a href="https://hacktoberfest.com">
-  ![Alt text](./hacktoberfest.svg)
-  <img src="./assets/hacktoberfest.svg">
-
-  - klik signup with github
-
+- klik signup with github
 - Centang informasi sesuai dengan informasi dirimu sendiri
 
 Mulailah berkontribusi di berbagai repository di github
