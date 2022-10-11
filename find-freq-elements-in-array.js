@@ -15,7 +15,7 @@ function answer(words) {
 			words[word] = 1
 		}
 		return words
-	}, {});
+	}, {})
 }
 
 let arr = ["hello", "world", "javascript", "hello", "javascript"]
